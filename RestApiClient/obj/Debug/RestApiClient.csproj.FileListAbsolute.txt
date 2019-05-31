@@ -1,0 +1,14 @@
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\RestApiClient.dll.config
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\RestApiClient.dll
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\RestApiClient.pdb
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\System.Web.Http.dll
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\bin\Debug\System.Web.Http.xml
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\obj\Debug\RestApiClient.csprojAssemblyReference.cache
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\obj\Debug\RestApiClient.csproj.CoreCompileInputs.cache
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\obj\Debug\RestApiClient.csproj.CopyComplete
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\obj\Debug\RestApiClient.dll
+C:\Users\santi\Source\Repos\RestApiClient\RestApiClient\obj\Debug\RestApiClient.pdb

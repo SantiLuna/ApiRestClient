@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiClientConsole", "RestApiClientConsole\RestApiClientConsole.csproj", "{B5D22EAA-6D29-4ABB-B0BF-FC852D9D525E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiClient", "RestApiClient\RestApiClient.csproj", "{3EBC650C-B234-4621-8BFC-F15831A8EF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D22EAA-6D29-4ABB-B0BF-FC852D9D525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D22EAA-6D29-4ABB-B0BF-FC852D9D525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D22EAA-6D29-4ABB-B0BF-FC852D9D525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D22EAA-6D29-4ABB-B0BF-FC852D9D525E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBC650C-B234-4621-8BFC-F15831A8EF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBC650C-B234-4621-8BFC-F15831A8EF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBC650C-B234-4621-8BFC-F15831A8EF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBC650C-B234-4621-8BFC-F15831A8EF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E20355-AD4C-4F3E-82FC-ED1F7C98C789}
+	EndGlobalSection
+EndGlobal
